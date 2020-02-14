@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "9ee6da22710dbbc0e4756c5640dd53c3"
+    "revision": "ef90c9acbe84d2520d5db6839faa432b"
   },
   {
     "url": "assets/css/0.styles.81599d89.css",
@@ -62,7 +62,7 @@ self.__precacheManifest = [
     "revision": "9a2abeeed6df1e317c69f3184fb0e599"
   },
   {
-    "url": "assets/js/6.61019ffd.js",
+    "url": "assets/js/6.6f40acf7.js",
     "revision": "4b04d15cc33a61c67c6c288ca155898f"
   },
   {
@@ -78,20 +78,20 @@ self.__precacheManifest = [
     "revision": "ada2b99842782fea6c72127d4006af06"
   },
   {
-    "url": "assets/js/app.ba59c68e.js",
-    "revision": "3a900e5f12c8d50eb0cd7c113affb411"
+    "url": "assets/js/app.3d415204.js",
+    "revision": "4f336c22801305a07c9f8ba098968b32"
   },
   {
-    "url": "github/contributing.html",
-    "revision": "e099e2756e177b64d68ade2eff014d92"
+    "url": "docs/github/contributing.html",
+    "revision": "6414dba6d5939a93423a5d5abfc6c293"
   },
   {
-    "url": "github/index.html",
-    "revision": "80396adb5aba57b72146e5efbd4160b4"
+    "url": "docs/github/index.html",
+    "revision": "d617b562b02cb25276ef7c0a237e2560"
   },
   {
-    "url": "gitlab/index.html",
-    "revision": "22a51735b18654f6b6a757b0d863cdbd"
+    "url": "docs/gitlab/index.html",
+    "revision": "d72917ab19de3991fcbb6548f0e2f388"
   },
   {
     "url": "icon.svg",
@@ -99,7 +99,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.html",
-    "revision": "a542e58b68e56c4b83e2ff232f074b78"
+    "revision": "9926ef0f26335fa582cec7cb3c2a223d"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
